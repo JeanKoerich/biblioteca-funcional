@@ -6,9 +6,6 @@ O sistema simula a lógica de negócio de uma biblioteca, processando uma lista 
 
 ## Desenvolvedor
 - **Jean Koerich** — @JeanKoerich
-
-> *(Atende ao requisito de identificação no GitHub com @. Caso o professor permita apenas um integrante, mantenha somente este.)*
-
 ---
 
 ## Como Instalar e Executar
